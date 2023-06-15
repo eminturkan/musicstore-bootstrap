@@ -1,0 +1,42 @@
+body {
+    background-color: #E9ECEF ;
+}
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+.card-img-top {
+    height: 80%;
+    object-fit: cover;
+}
+.container {
+    margin-top: 0.5rem;
+}
+.card {
+    width: 300px;
+    height: 80%;
+    border-radius: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.card-img {
+    height: 100%;
+}
+.card-text {
+    text-align: center;
+    height: auto;
+}
+.card-body {
+    margin-bottom: 100px;
+}
+.card-price {
+    width: 50px;
+}
+.card-price {
+    color: aliceblue;
+    background-color: gray;
+    margin-right: 5rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
